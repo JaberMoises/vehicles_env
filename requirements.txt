@@ -1,4 +1,4 @@
 pandas
-streamlist
-ploty
-scipy
+streamlit
+plotly
+nbformat
