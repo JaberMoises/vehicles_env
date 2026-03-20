@@ -89,3 +89,11 @@ Gráfica de barras apiladas que permite analizar la cantidad de vehículos por f
 * pandas
 * Plotly
 * Streamlit
+
+---
+
+## 🌐 Demo en línea
+
+Puedes acceder a la aplicación web aquí:
+
+👉 https://sprint-7-app-web.onrender.com
